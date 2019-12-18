@@ -8,7 +8,7 @@
 	
 * 第二步
 	
-	点击「美洽」，并且往下拉动，就切换成了保护模式
+	点击「跟单」，并且往下拉动，就切换成了保护模式
 	
 	![小米](https://jianminzhu.github.io/android_app_setting/xiaomi/pic/xiaomi_1_1.png)
 
@@ -33,7 +33,7 @@
 	
 * 第六步
 	
-	找到「美洽」，并打开开关
+	找到「跟单」，并打开开关
 	
 	![小米](https://jianminzhu.github.io/android_app_setting/xiaomi/pic/xiaomi_5.png)
 

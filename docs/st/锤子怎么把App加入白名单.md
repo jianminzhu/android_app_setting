@@ -23,7 +23,7 @@
 
 * 第四步
 	
-	找到「美洽」并打开「后台常驻」
+	找到「跟单」并打开「后台常驻」
 	
 	![st](https://jianminzhu.github.io/android_app_setting/st/pic/st4.png)
 
@@ -44,7 +44,7 @@
 
 * 第七步
 	
-	找到「美洽」，并选择「始终允许」
+	找到「跟单」，并选择「始终允许」
 	
 	![st](https://jianminzhu.github.io/android_app_setting/st/pic/st7.png)
 	
@@ -56,7 +56,7 @@
 
 * 第九步
 	
-	确认「显示通知」 和 「美洽」的通知开关打开
+	确认「显示通知」 和 「跟单」的通知开关打开
 	
  ![st](https://jianminzhu.github.io/android_app_setting/st/pic/st9.png)
 

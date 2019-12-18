@@ -20,7 +20,7 @@
 	
 * 第四步
 	
-	找到「美洽」，并打开开关
+	找到「跟单」，并打开开关
 	
 	![st](https://jianminzhu.github.io/android_app_setting/vivo/pic/vivo4.png)
 
@@ -32,7 +32,7 @@
 
 * 第六步
 	
-	找到「美洽」，并允许自启动
+	找到「跟单」，并允许自启动
 	
 	![st](https://jianminzhu.github.io/android_app_setting/vivo/pic/vivo6.png)
 
@@ -58,7 +58,7 @@
 
 * 第十步
 	
-	找到「美洽」，并且点击
+	找到「跟单」，并且点击
 	
 	![st](https://jianminzhu.github.io/android_app_setting/vivo/pic/vivo10.png)
 
