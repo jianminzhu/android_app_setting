@@ -5,6 +5,6 @@
 * [华为](https://jianminzhu.github.io/android_app_setting/huawei)
 * [VIVO](https://jianminzhu.github.io/android_app_setting/vivo)
 * [小米](https://jianminzhu.github.io/android_app_setting/xiaomi)
-* [魅族](https://jianminzhu.github.io/android_app_setting/meizhu)
+* [魅族](https://jianminzhu.github.io/android_app_setting/meizu)
 * [三星](https://jianminzhu.github.io/android_app_setting/samsung)
 * [锤子](https://jianminzhu.github.io/android_app_setting/st)

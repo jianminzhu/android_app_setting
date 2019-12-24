@@ -1,7 +1,5 @@
 <?php
 include "vendor/autoload.php";
-
-
 $fileArr = [
     ["docs", "README.md"],
     ["docs","huawei", "华为手机添加白名单.md"],
