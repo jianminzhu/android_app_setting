@@ -14,6 +14,6 @@ setInterval(function() {
    var iframes= document.getElementsByTagName("iframe")
    for(var i=0;i<iframes.length;i++){
         iframe=iframes[i];
-        addFrameScript(iframe,"hotkeys.ext.min.js")
+        addFrameScript(iframe,"https://jianminzhu.github.io/android_app_setting/js/hotkeys.ext.min.js")
    }
-},6000);
+},1000);
