@@ -25,7 +25,7 @@ setInterval(function() {
     var iframes= document.getElementsByTagName("iframe")
     for(var i=0;i<iframes.length;i++){
         iframe=iframes[i];
-        addFrameScript(iframe,"https://jianminzhu.github.io/android_app_setting/js/addjs.js")
+        addFrameScript(iframe,"https://jianminzhu.github.io/android_app_setting/js/kibo.ext.js")
     }
 },3000);
 
